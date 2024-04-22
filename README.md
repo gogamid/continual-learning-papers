@@ -359,7 +359,6 @@ In this section we collect all the papers introducing a continual learning strat
 
 - [Foundational Models for Continual Learning: An Empirical Study of Latent Replay](http://arxiv.org/abs/2205.00329) by Oleksiy Ostapenko, Timothee Lesort, Pau Rodríguez, Md Rifat Arefin, Arthur Douillard, Irina Rish and Laurent Charlin. *arXiv*, 2022. 
 - [Brain-Inspired Replay for Continual Learning with Artificial Neural Networks](https://www.nature.com/articles/s41467-020-17866-2) by Gido M. van de Ven, Hava T. Siegelmann and Andreas S. Tolias. *Nature Communications*, 2020. [cifar] [framework] [generative] [mnist] 
-- [Complementary Learning for Overcoming Catastrophic Forgetting Using Experience Replay](http://arxiv.org/abs/1903.04566) by Mohammad Rostami, Soheil Kolouri and Praveen K Pilly. *arXiv*, 2019. 
 - [Complementary Learning for Overcoming Catastrophic Forgetting Using Experience Replay](https://arxiv.org/abs/1903.04566v2) by Mohammad Rostami, Soheil Kolouri and Praveen K. Pilly. *arXiv*, 2019. 
 - [Continual Learning of New Sound Classes Using Generative Replay](http://arxiv.org/abs/1906.00654) by Zhepei Wang, Cem Subakan, Efthymios Tzinis, Paris Smaragdis and Laurent Charlin. *arXiv*, 2019. [audio] 
 - [Generative Replay with Feedback Connections as a General Strategy for Continual Learning](https://arxiv.org/abs/1809.10635) by Gido M. van de Ven and Andreas S. Tolias. *arXiv*, 2018. [framework] [generative] [mnist] 
